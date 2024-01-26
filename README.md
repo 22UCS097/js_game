@@ -1,1 +1,1 @@
-the for this project is https://22ucs097.github.io/js_game/ click here;
+ for this project link is here : https://22ucs097.github.io/js_game/ 
