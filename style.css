@@ -94,3 +94,32 @@ body{
 .bubble:hover{
     background-color: rgb(5, 121, 83);
 }
+
+
+@media screen and (max-width:1025px) {
+    .nav {
+        
+        width:100%; 
+    }
+    .box{
+        height:2fr;
+        font-size:3%;
+         padding:2%;
+        display:flex;
+       /* justify-content:center;
+        align-items:center; */
+        gap:2.5%; 
+        margin-left:2%; 
+    }
+    .box h3{
+    
+        /* height:3fr; */
+        color:white;
+        font-size:20px;
+        
+        
+    }
+
+        
+}
+
